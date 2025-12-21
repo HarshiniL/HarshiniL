@@ -1,4 +1,4 @@
-## Hello, I'm Harshini, a first-year CS student at McMaster Univeristy 👋
+## Hello, I'm Harshini, a first-year CS student at McMaster University 👋
 - Languages: Python, Haskell, Elm
 - Currently learning: C, shell, web programming
 
