@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello, I'm Harshini, a first-year CS student at McMaster Univeristy 👋
+- Languages: Python, Haskell, Elm
+- Currently learning: C, shell, web programming
 
 <!--
 **HarshiniL/HarshiniL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
